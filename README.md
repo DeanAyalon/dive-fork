@@ -1,4 +1,12 @@
-# dive
+# dive - FORK
+The [original repository](https://github.com/wagoodman/dive) is currently unmaintained, I will be managing this one, testing fixes people have created PRs for<br>
+I will **not** be actively maintaining this fork, issues should still be opened on [the original repository](https://github.com/wagoodman/dive/issues/new) or [Jauderho's fork](https://github.com/jauderho/dive/issues/new)
+
+## Alternative tools
+Since unmaintained tools are bound to break sometime, you might want to consider using the [Image Layers Explorer](https://github.com/containers/podman-desktop-extension-layers-explorer) extension for Podman Desktop
+> With the Docker extension, it can read directly from your Docker image library, no double-pulling required!
+
+# Original README
 [![GitHub release](https://img.shields.io/github/release/wagoodman/dive.svg)](https://github.com/wagoodman/dive/releases/latest)
 [![Validations](https://github.com/wagoodman/dive/actions/workflows/validations.yaml/badge.svg)](https://github.com/wagoodman/dive/actions/workflows/validations.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/wagoodman/dive)](https://goreportcard.com/report/github.com/wagoodman/dive)
